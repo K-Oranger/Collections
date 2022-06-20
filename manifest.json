@@ -1,0 +1,14 @@
+{
+
+    "description": "Firefox add-on that adds Microsoft Edge-like collection features",
+    "manifest_version": 2,
+    "name": "Collections",
+    "version": "0.0.1",
+    "icons": {
+      "96": "icons/icon.svg",
+      "64": "icons/icon.svg",
+      "48": "icons/icon.svg",
+      "32": "icons/icon.svg",
+      "16": "icons/icon.svg"
+    }  
+  }
